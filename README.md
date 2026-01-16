@@ -22,6 +22,22 @@ Core Python programming fundamentals and essential libraries:
 - Task 4: Flask "Hello World" web app with forms
 - Task 5: Flask interactive greeting application
 
+### 2. [API Development with Flask and Postman](./ApiTokenPostman/)
+**Status:** ✅ Completed
+
+RESTful API development and testing:
+- Building REST APIs with Flask
+- HTTP methods (GET, POST, PUT, DELETE)
+- JSON request/response handling
+- API testing with Postman
+- CRUD operations
+
+**Tasks Completed:**
+- Task 2.2: POST request with JSON data (Echo API)
+- Task 2.3: Full CRUD API with all HTTP methods
+- Task 2.6: Square number calculation API
+- Postman testing and validation
+
 ---
 
 ## 🎯 Learning Roadmap
@@ -29,7 +45,7 @@ Core Python programming fundamentals and essential libraries:
 This internship follows a structured learning path covering:
 
 1. ✅ **Python Basics and Libraries** - Foundation (Completed)
-2. 📝 **Module 2** - Coming Soon
+2. ✅ **API Development with Flask and Postman** - REST APIs (Completed)
 3. 📝 **Module 3** - Coming Soon
 4. 📝 **Module 4** - Coming Soon
 5. 📝 **Module 5** - Coming Soon
@@ -85,7 +101,7 @@ This repository documents my learning journey during my internship, focusing on 
 | Module | Status | Tasks Completed |
 |--------|--------|-----------------|
 | Python Basics & Libraries | ✅ Complete | 5/5 |
-| Module 2 | 🔜 Upcoming | 0/? |
+| API Development (Flask & Postman) | ✅ Complete | 3/4 |
 | Module 3 | 🔜 Upcoming | 0/? |
 | Module 4 | 🔜 Upcoming | 0/? |
 | Module 5 | 🔜 Upcoming | 0/? |
