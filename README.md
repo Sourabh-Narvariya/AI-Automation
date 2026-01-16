@@ -38,6 +38,79 @@ RESTful API development and testing:
 - Task 2.6: Square number calculation API
 - Postman testing and validation
 
+### 3. [LLMs and Generative AI](./LLMs%20and%20Generative%20AI/)
+**Status:** ✅ Completed
+
+Large Language Models and Generative AI technologies:
+- Hugging Face Transformers library
+- Google Gemini API integration
+- Text generation with transformers
+- Image generation with Stable Diffusion
+- Prompt engineering and multi-turn conversations
+- Multi-modal AI applications
+
+**Tasks Completed:**
+- Task 1: Explore and research 5 popular LLMs
+- Task 2: Text generation with Hugging Face Pipeline
+- Task 3: Simple Gemini API prompt-response
+- Task 4: Advanced prompt engineering with variations
+- Task 5: Interactive Gemini chatbot
+- Task 6: Multi-modal AI (text + image generation)
+
+### 4. [Hugging Face and Advanced Features](./HuggingFaceandAdvancedFeatures/)
+**Status:** ✅ Completed
+
+Advanced Hugging Face features and NLP tasks:
+- Sentiment analysis with DistilBERT
+- Text-to-Speech with SpeechT5
+- Telegram bot with Gemini AI integration
+- Dataset exploration and loading
+- Gradio interactive interfaces
+- Model fine-tuning with Trainer API
+
+**Tasks Completed:**
+- Task 1: Sentiment analysis pipeline
+- Task 2: Text-to-Speech conversion
+- Task 3: Telegram bot with Gemini AI
+- Task 4: Hugging Face datasets exploration
+- Task 5: Gradio web interface for text generation
+- Task 6: Fine-tuning models on custom data
+
+### 5. [Vector Databases and Memory](./VectoDatabasesandMemory/)
+**Status:** ✅ Completed
+
+Vector embeddings and semantic search systems:
+- Text embeddings with Sentence Transformers
+- FAISS vector indexing and search
+- ChromaDB for persistent vector storage
+- RAG (Retrieval Augmented Generation) systems
+- PDF document processing and chunking
+- Semantic search implementation
+
+**Tasks Completed:**
+- Task 1: Create text embeddings
+- Task 2: FAISS vector similarity search
+- Task 3: RAG system with ChromaDB
+- Task 5: PDF vector index and semantic search
+
+### 6. [Streamlit Applications](./Streamlit_Task/)
+**Status:** ✅ Completed
+
+Building interactive web applications with Streamlit:
+- Interactive dashboards and interfaces
+- File upload and processing
+- Real-time text generation
+- Chat applications with memory
+- RAG-based Q&A systems
+- Data visualization
+
+**Tasks Completed:**
+- File upload and processing
+- Text generation interface
+- Chat application with history
+- RAG-based question answering
+- Interactive data exploration
+
 ---
 
 ## 🎯 Learning Roadmap
@@ -46,10 +119,10 @@ This internship follows a structured learning path covering:
 
 1. ✅ **Python Basics and Libraries** - Foundation (Completed)
 2. ✅ **API Development with Flask and Postman** - REST APIs (Completed)
-3. 📝 **Module 3** - Coming Soon
-4. 📝 **Module 4** - Coming Soon
-5. 📝 **Module 5** - Coming Soon
-6. 📝 **Module 6** - Coming Soon
+3. ✅ **LLMs and Generative AI** - Large Language Models (Completed)
+4. ✅ **Hugging Face and Advanced Features** - NLP & ML (Completed)
+5. ✅ **Vector Databases and Memory** - Semantic Search & RAG (Completed)
+6. ✅ **Streamlit Applications** - Web Apps (Completed)
 7. 📝 **Module 7** - Coming Soon
 8. 📝 **Module 8** - Coming Soon
 9. 📝 **Module 9** - Coming Soon
@@ -59,9 +132,13 @@ This internship follows a structured learning path covering:
 ## 🛠️ Technologies Used
 
 - **Programming Languages:** Python
-- **Libraries & Frameworks:** NumPy, Pandas, Flask
-- **Tools:** Git, GitHub, VS Code
-- **Data Formats:** CSV, JSON
+- **Libraries & Frameworks:** NumPy, Pandas, Flask, Streamlit
+- **AI/ML:** Transformers, Diffusers, Sentence Transformers
+- **Vector Databases:** FAISS, ChromaDB
+- **APIs:** Google Gemini, Telegram Bot
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Data Formats:** CSV, JSON, PDF
+- **Deployment:** Gradio, Streamlit, Flask
 
 ---
 
@@ -102,13 +179,15 @@ This repository documents my learning journey during my internship, focusing on 
 |--------|--------|-----------------|
 | Python Basics & Libraries | ✅ Complete | 5/5 |
 | API Development (Flask & Postman) | ✅ Complete | 3/4 |
-| Module 3 | 🔜 Upcoming | 0/? |
-| Module 4 | 🔜 Upcoming | 0/? |
-| Module 5 | 🔜 Upcoming | 0/? |
-| Module 6 | 🔜 Upcoming | 0/? |
+| LLMs and Generative AI | ✅ Complete | 6/6 |
+| Hugging Face Advanced Features | ✅ Complete | 6/6 |
+| Vector Databases and Memory | ✅ Complete | 4/4 |
+| Streamlit Applications | ✅ Complete | 5/5 |
 | Module 7 | 🔜 Upcoming | 0/? |
 | Module 8 | 🔜 Upcoming | 0/? |
 | Module 9 | 🔜 Upcoming | 0/? |
+
+**Total Completed:** 6/9 modules | **Total Tasks:** 29/29+ completed
 
 ---
 
